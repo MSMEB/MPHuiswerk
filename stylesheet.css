@@ -1,0 +1,26 @@
+header {
+text-align: center;
+}
+footer {
+background-color: #19588cc8;
+width: 100%;
+height: 200px;
+padding: 20px 20px 20px 20px;
+text-align: center;
+clear: left;
+}
+h1 {
+color: #3e21b1;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 5%;
+background-color: lightblue;
+}
+.nav-link {
+padding: 5%;
+background-color: coral;
+}
